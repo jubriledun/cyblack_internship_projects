@@ -1,4 +1,4 @@
-Cyber Threat Intelligence Sprint
+# Cyber Threat Intelligence Sprint
 
 In this immersive hands-on challenge, you and your team will operate as cyber threat intelligence analysts within a simulated organization. Your mission is to investigate real-world threats using OpenCTI and the AlienVault OTX connector, identify high-risk actors and activities, and report your findings in a way that supports critical decision-making.
 
