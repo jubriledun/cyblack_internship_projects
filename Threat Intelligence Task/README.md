@@ -8,6 +8,6 @@
 
 - In OpenCTI, Identify the most recent politically driven threat actor group with high-profile activity.
 Analyze:
- - their motivation, targets, and tactics.
- - any known tools or campaigns they are associated with.
- - summary of their impact or publicly known incidents.
+  - their motivation, targets, and tactics.
+  - any known tools or campaigns they are associated with.
+  - summary of their impact or publicly known incidents.
